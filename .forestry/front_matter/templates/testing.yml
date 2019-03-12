@@ -1,0 +1,13 @@
+---
+label: testing
+hide_body: false
+fields:
+- type: text
+  name: testname
+  label: testname
+- type: blocks
+  name: blocks
+  label: blocks
+  template_types:
+  - project
+  - person
