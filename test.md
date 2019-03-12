@@ -22,4 +22,3 @@ menu:
     weight: 6
 
 ---
-test
