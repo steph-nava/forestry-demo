@@ -16,6 +16,5 @@ show_news: false
 partners: []
 show_staff: false
 date: 2019-03-12 17:56:33 +0000
-published: false
 
 ---
