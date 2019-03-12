@@ -25,6 +25,19 @@ hero_button:
   text: Learn more
   href: "/about"
 show_news: true
+show_staff: false
+email: test@test.com
+testagain: []
+phone: ''
+address_1: ''
+address_2: ''
+city: ''
+state: ''
+postal_code: ''
+country: ''
+twitter: ''
+hmm:
+- template: information-yml
 menu:
   navigation:
     identifier: _index
