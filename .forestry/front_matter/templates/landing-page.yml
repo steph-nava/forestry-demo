@@ -86,6 +86,10 @@ fields:
   template_types:
   - project
   - person
+- type: include
+  name: include
+  label: include
+  template: information-yml
 pages:
 - whatever/test2.md
 - test.md
