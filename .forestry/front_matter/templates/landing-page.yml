@@ -80,6 +80,12 @@ fields:
   hidden: true
   default: home
 - type: include
+- type: blocks
+  name: testagain
+  label: testagain
+  template_types:
+  - project
+  - person
 pages:
 - whatever/test2.md
 - test.md
