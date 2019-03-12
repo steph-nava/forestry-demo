@@ -79,17 +79,13 @@ fields:
   type: text
   hidden: true
   default: home
-- type: include
 - type: blocks
-  name: testagain
-  label: testagain
+  name: hmm
+  label: hmm
   template_types:
-  - project
   - person
-- type: include
-  name: include
-  label: include
-  template: information-yml
+  - information-yml
+  - testing
 pages:
 - whatever/test2.md
 - test.md
