@@ -78,6 +78,8 @@ fields:
   type: text
   hidden: true
   default: home
+- type: blocks
+- type: include
 pages:
 - test.md
 - index.md
